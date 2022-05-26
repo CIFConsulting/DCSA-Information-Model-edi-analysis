@@ -1,6 +1,6 @@
-Party Function Code,Party Function Name,Party Function Description
+Party Function Code,Party Function Name,Party Function Description,MMT Path, TDID, TDED
 OS,Original shipper.,The original supplier of the goods.
-CN,Consignee.,Party to which goods are consigned.
+CN,Consignee.,Party to which goods are consigned.,BSP Master. Details/BSP Master. Specified. Supply Chain_ Consignment/Supply Chain_ Consignment. Consignee. Trade_ Party
 COW,Freight payer on behalf of the consignor.,Freight payer is a third party acting on behalf of the consignor.
 COX,Freight payer on behalf of the consignee.,Freight payer is a third party acting on behalf of the consignee.
 MS,"Document/message issuer/sender",Issuer of a document and/or sender of a message.
