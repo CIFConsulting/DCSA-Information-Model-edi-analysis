@@ -6,7 +6,7 @@ COX,Freight payer on behalf of the consignee.,Freight payer is a third party act
 MS,"Document/message issuer/sender",Issuer of a document and/or sender of a message.,
 N1,First Notify Party.,The first party which is to be notified.,
 N2,Second Notify Party.,The second party which is to be notified.,
-NI,Notify party,Party to be notified of arrival of goods.,
+NI,Notify party,Party to be notified of arrival of goods.,BSP Master. Details/BSP Master. Specified. Supply Chain_ Consignment/Supply Chain_ Consignment. Notified. Trade_ Party
 DDR,"Consignor's freight forwarder",Identification of freight forwarder giving services to the consignor (shipper).,BSP Master. Details/BSP Master. Specified. Supply Chain_ Consignment/Supply Chain_ Consignment. Consignor Agent. Trade_ Party
 DDS,"Consignee's freight forwarder",Identification of freight forwarder giving services to the consignee.,BSP Master. Details/BSP Master. Specified. Supply Chain_ Consignment/Supply Chain_ Consignment. Consignee Agent. Trade_ Party
 CA,Carrier operations,"The activity of discharging, shifting, loading, and lashing containers (both full and empty) as well as other cargo from/to a vessel during port stay. Normally quantified with a move-count and a number of moves per hour.",
